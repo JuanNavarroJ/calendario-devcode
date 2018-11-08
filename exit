@@ -1,0 +1,47 @@
+[33mcommit 1f314fafb43c70c24049dca00e0c43056b376575[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Juan.Navarro <juan_4661@hotmail.com>
+Date:   Tue Nov 6 12:31:17 2018 -0500
+
+    Borra el archivo prueba
+
+[33mcommit f19137db4f62ef67d5ebf172016d75ef4097f05e[m
+Author: Juan.Navarro <juan_4661@hotmail.com>
+Date:   Tue Nov 6 12:28:49 2018 -0500
+
+    añade archivo prueba
+
+[33mcommit e5c142f26cba8a123cce751bc233805176fe4ccc[m
+Author: Juan.Navarro <juan_4661@hotmail.com>
+Date:   Tue Nov 6 12:23:16 2018 -0500
+
+    añade gitIgnore al proyecto
+
+[33mcommit 2a21b2a57f0929a29266db32284dad5180958840[m
+Author: Juan.Navarro <juan_4661@hotmail.com>
+Date:   Tue Nov 6 12:16:03 2018 -0500
+
+    añade archivos externos
+
+[33mcommit 4451b31fd6dc6142fefcd1c03ef3cec27804cb8b[m
+Author: Juan.Navarro <juan_4661@hotmail.com>
+Date:   Tue Nov 6 12:05:20 2018 -0500
+
+    Completa aplicacion con js y css
+
+[33mcommit f0f47672964dd8f337662e87adc1a2fbe5c3e2d7[m
+Author: Juan.Navarro <juan_4661@hotmail.com>
+Date:   Tue Nov 6 12:01:24 2018 -0500
+
+    añade el archivo main.js
+
+[33mcommit 8ba9b320f2a84c716276949cd38a0eb23933a661[m
+Author: Juan.Navarro <juan_4661@hotmail.com>
+Date:   Tue Nov 6 11:59:56 2018 -0500
+
+    añade archivo styles.css
+
+[33mcommit 5a06bdfda700a789316160635b39c0853e151d30[m
+Author: Juan.Navarro <juan_4661@hotmail.com>
+Date:   Tue Nov 6 11:53:59 2018 -0500
+
+    Añade el archivo index.html
